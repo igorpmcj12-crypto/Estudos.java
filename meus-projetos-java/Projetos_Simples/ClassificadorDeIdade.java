@@ -1,7 +1,7 @@
 import java.util.Locale;
 import java.util.Scanner;
 
-public class ProjetoClaude4 {
+public class ClassificadorDeIdade {
     public static void main(String[] args) throws InterruptedException {
 
         Locale.setDefault(Locale.US);

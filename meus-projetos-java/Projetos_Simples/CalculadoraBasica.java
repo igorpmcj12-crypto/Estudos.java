@@ -1,7 +1,7 @@
 import java.util.Locale;
 import java.util.Scanner;
 
-public class ProjetoClaude3 {
+public class CalculadoraBasica {
     public static void main(String[] args) throws InterruptedException {
 
         Locale.setDefault(Locale.US);

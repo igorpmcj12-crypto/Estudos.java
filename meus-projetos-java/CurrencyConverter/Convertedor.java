@@ -20,7 +20,7 @@ public class Convertedor {
 
         double resultado = conversor.converterParaReais(valorEmDolar);
 
-        System.out.printf("Vc vai pagar em Reais: %.2f%n", resultado);
+        System.out.printf("Vc vai pagar em Reais e com a taxa do IOF: %.2f%n", resultado);
 
         sc.close();
     }
