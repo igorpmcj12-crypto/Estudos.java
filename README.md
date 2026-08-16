@@ -1,30 +1,30 @@
 # ☕ Estudos Java
 
-Repositório criado para registrar minha evolução no aprendizado de Java.
+Olá! Eu sou Igor 👋
 
-## 📚 Projetos
+Este repositório registra minha evolução no aprendizado de Java,
+desde os fundamentos de programação até projetos mais completos.
+
+## 🚀 Projetos
 
 ### 💱 Currency Converter
-Projeto de conversão de moedas desenvolvido durante meus estudos de Java.
+Conversor de moedas desenvolvido para praticar Java e lógica de programação.
 
 ### 📦 Projeto de Estoque
-Projeto para praticar conceitos de programação orientada a objetos e gerenciamento de produtos.
+Sistema desenvolvido para praticar Programação Orientada a Objetos
+e gerenciamento de produtos.
 
 ### 🧮 Projetos Simples
-Projetos e exercícios para praticar lógica de programação.
+Coleção de pequenos projetos e exercícios para praticar lógica e os
+fundamentos da linguagem Java.
 
-- Calculadora Básica
-- Classificador de Idade
-- Criador de Tabuada
+## 📚 Conteúdos estudados
 
-## 📈 Progresso
-
-- [x] Fundamentos de Java
 - [x] Variáveis e tipos de dados
 - [x] Entrada e saída de dados
 - [x] Operadores
 - [x] Estruturas condicionais
-- [x] Estruturas de repetição (`while`, `do while`, `for`)
+- [x] Estruturas de repetição
 - [ ] Arrays
 - [ ] Programação Orientada a Objetos
 - [ ] Collections
@@ -40,6 +40,11 @@ Projetos e exercícios para praticar lógica de programação.
 - GitHub
 - VS Code
 
+## 🎯 Objetivo
+
+Construir uma base sólida em Java e evoluir para desenvolvimento
+Backend, criando projetos cada vez mais completos.
+
 ---
 
-📌 Este repositório está em constante evolução conforme avanço nos meus estudos.
+📈 Repositório em constante evolução.
